@@ -8,7 +8,7 @@
 ### 💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Exploring new technologies and developing programming insights.
-- 🎓 &nbsp; Working as a Software Developer.
+- 🎓 &nbsp; Software Developer.
 
 
 
