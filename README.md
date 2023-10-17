@@ -13,13 +13,11 @@
 
 - 📝 I regularly write articles on [https://coderzclub123.blogspot.com/](https://coderzclub123.blogspot.com/)
 
-- 💬 Ask me about **Java 8 , Software Design**
+- 💬 Ask me about **Java 8 , JavaFX ,  Software Design**
 
 - 📫 How to reach me **anandhuka97@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1AYYho7co3LlaGFYq50DkqE4yM7AT3fNm/edit?usp=sharing&ouid=102407048619852811261&rtpof=true&sd=true](https://docs.google.com/document/d/1AYYho7co3LlaGFYq50DkqE4yM7AT3fNm/edit?usp=sharing&ouid=102407048619852811261&rtpof=true&sd=true)
-
-- ⚡ Fun fact **Life is happening within you , not outside**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
