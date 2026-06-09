@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandhuarjunan&label=Profile%20views&color=0e75b6&style=flat" alt="anandhuarjunan" /> </p>
 
-- 🔭 I’m currently working on [Sadguru Quotes Widget](https://github.com/AnandhuArjunan/SadguruQuotesWidget-Android)
+- 🔭 I’m currently working on Android Automation Using Termux
 
 - 🌱 I’m currently learning **Java Technologies**
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://coderzclub123.blogspot.com/](https://coderzclub123.blogspot.com/)
 
-- 💬 Ask me about **Java 8 , JavaFX ,  Software Design**
+- 💬 Ask me about **Java, JavaFX , Automation,  Software Design**
 
 - 📫 How to reach me **anandhuka97@gmail.com**
 
